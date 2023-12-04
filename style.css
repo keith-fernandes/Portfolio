@@ -1,5 +1,5 @@
 body {
-    background-image: url(../image/background.png);
+    background-image: url(background.png);
     height: 1440px;
     background-position: no-repeat;
     background-size: auto;
@@ -21,7 +21,7 @@ body {
 }
 
 .header-image {
-    background-image: url("../image/header.png");
+    background-image: url("header.png");
     background-size: cover;
     background-position: center;
     top: 0;
@@ -37,7 +37,7 @@ body {
 }
 
 .sidebar {
-    background-image: url("../image/sider.png");
+    background-image: url("sider.png");
     background-size: cover;
     position: fixed;
     top: 0;
